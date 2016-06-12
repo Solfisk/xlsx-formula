@@ -1,0 +1,20 @@
+{
+  "name": "xlsx-formulas",
+  "version": "1.0.0",
+  "description": "Convert xlsx spread sheet to formulas",
+  "main": "js/index.js",
+  "dependencies": {
+    "exceljs": "^0.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xlsx",
+    "spreadsheets",
+    "import"
+  ],
+  "author": "Michael Zedeler <michael@zedeler.dk>",
+  "license": "MIT"
+}
