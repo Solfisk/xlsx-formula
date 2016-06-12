@@ -9,11 +9,11 @@ Example:
 
 Assume my-workbook.xlsx contains
 
-A1    10
-A2    20
-A3    =A1+A2
+    A1    10
+    A2    20
+    A3    =A1+A2
 
-And A3 has the name "result" (see cell names in the documentation if you haven't heard about named cells).
+And `A3` has the name `result` (see cell names in the documentation if you haven't heard about named cells).
 
     npm install xlsx-formulas
     node -e 'require('xlsx-formulas')('my-workbook.xlsx')
